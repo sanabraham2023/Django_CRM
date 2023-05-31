@@ -1,3 +1,4 @@
+'''
 import mysql.connector
 
 
@@ -14,3 +15,5 @@ cursor = connexion.cursor()
 ##Excute a query
 cursor.execute("Create DataBase my_database")
 print("All Done !")
+
+'''
